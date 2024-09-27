@@ -17,3 +17,4 @@ Dokładność modelu na wyselekcjonowanych cechach: 91.64%
 ```
 
 # Sa one doslownie identyczne
+###### BM 3P
