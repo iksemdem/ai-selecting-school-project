@@ -1,4 +1,4 @@
-ogolnie to rozumiem zdecydowana wiekszosc kodu, robilem to oczywiscie z chatem, pierwsza metode zrobilem SelectFromModel, zajelo to okolo godziny, druga juz robilem kolo 15 minut. wyniki porownalem, i sa do siebie bardzo zblizone wiec wydaje mi sie ze dziala. nie bede recznie tego sprawdzac by to potwierdzic bo jestem leniem, a pewnie ktos z klasy tak zrobi, a z reszta wtedy sie porowna czy wyszlo to samo. wyniki daje ponizej:
+ogolnie to rozumiem zdecydowana wiekszosc kodu, robilem to oczywiscie z chatem, pierwsza metode zrobilem SelectFromModel, zajelo to okolo godziny, druga juz robilem kolo 15 minut. wyniki porownalem, i sa identyczne w obu przypadkach. nie bede recznie tego sprawdzac by to potwierdzic bo jestem leniem, a pewnie ktos z klasy tak zrobi, a z reszta wtedy sie porowna czy wyszlo to samo. wyniki daje ponizej:
 
 # SelectFromModel:
 
@@ -16,4 +16,4 @@ Liczba wybranych cech: 3
 Dokładność modelu na wyselekcjonowanych cechach: 91.64%
 ```
 
-# sa doslownie identyczne
+# Sa one doslownie identyczne
